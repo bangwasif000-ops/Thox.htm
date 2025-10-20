@@ -1,2 +1,5 @@
-# Thox.htm
-Belajar ngoding
+webngawur
+
+-ngawur
+-teratur
+-jalanjalany
